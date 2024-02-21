@@ -253,9 +253,11 @@ img{
 .trending-bio{
     color: gray;
 }
+div.dashboard-navigation ul li:hover, div.dashboard-settings ul li:hover,.nav-content-right h1:hover{
+    cursor: pointer;
+}
 div.dashboard-navigation ul li:hover, div.dashboard-settings ul li:hover{
     color: lightgray;
-    cursor: pointer;
 }
 .header,.project,.all-announcements,.all-trending{
     box-shadow: 0 0 5px 1px gray;

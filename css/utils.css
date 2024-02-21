@@ -10,8 +10,6 @@
 .scaledec1:active{
     transform: scale(1);
 }
-.blueshadow{
-}
 .blueshadow:hover{
     box-shadow: 0 0 20px 1px #1992d4;
 }
